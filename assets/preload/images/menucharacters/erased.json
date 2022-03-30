@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Erased Idle",
+	"image": "Erased_Menu",
+	"position": [
+		70,
+		68
+	],
+	"scale": 0.7,
+	"confirm_anim": "M Dad Idle"
+}
